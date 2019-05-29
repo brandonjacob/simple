@@ -1,0 +1,14 @@
+bin/
+target/
+generator/
+*.rej
+*~
+#*#
+org.sonar.ide.eclipse.core.prefs
+*.local
+.DS_Store
+.mapfile
+/build.fingerprint
+/release.log
+.idea/
+*.iml
