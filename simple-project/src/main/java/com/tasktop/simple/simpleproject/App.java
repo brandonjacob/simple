@@ -6,6 +6,7 @@ public class App
 		return "Brandon";
 	}
 	
+	// some comments for this method
 	public String getAge() {
 		return "?";
 	}
