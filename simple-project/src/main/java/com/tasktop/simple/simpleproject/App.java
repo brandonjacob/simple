@@ -5,4 +5,8 @@ public class App
 	public String getName() {
 		return "Brandon";
 	}
+	
+	public String getAge() {
+		return "?";
+	}
 }
